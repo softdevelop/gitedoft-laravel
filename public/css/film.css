@@ -1,0 +1,37 @@
+.card-body {
+}
+
+.card-body .row-img {
+
+}
+
+.card-body .row-img img{
+    width: 100%;
+    height: auto;
+}
+
+.card-body .row-content {
+
+}
+
+.row-film-view {
+}
+
+.row-film-view .content-left{
+    float: left;
+    max-width: 300px;
+    width: 100%;
+    margin-right: 20px;
+}
+
+.row-film-view .content-left img{
+    width: 100%;
+    height: auto;
+}
+
+.row-film-view .content-right{
+}
+
+.name-film {
+    height: 60px;
+}
